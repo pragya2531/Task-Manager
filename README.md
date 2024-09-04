@@ -1,0 +1,1 @@
+This project is a simple Task Management System implemented in JavaScript. The system allows users to create, update, delete, and mark tasks as completed. It's designed to help users manage their tasks efficiently through a command-line interface (CLI).
